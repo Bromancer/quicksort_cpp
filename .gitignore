@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+nbproject/private/*
+build
+lib/*
+bin/*
+.DS_Store
